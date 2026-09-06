@@ -47,8 +47,8 @@ function Scene() {
 const projects = [
   {
     n: "01",
-    title: "Berger Paints — Fundamental Analysis",
-    text: "A business and financial analysis covering company fundamentals, profitability, leverage, industry position and long-term growth factors."
+  title: "Norbertine Media – Event Media Projects",
+  text: "Part-time media work involving event photography, videography and content capture. Worked on multiple projects covering events, capturing photographs and video footage, and supporting the creation of engaging visual content.""
   },
   {
     n: "02",
