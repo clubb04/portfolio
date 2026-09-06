@@ -52,11 +52,6 @@ const projects = [
   },
   {
     n: "02",
-    title: "AI-Driven Recruitment Research",
-    text: "Academic research exploring how artificial intelligence can support recruitment processes, screening and hiring decisions."
-  },
-  {
-    n: "03",
     title: "Digital Content & Social Media",
     text: "Practical work involving Instagram content management, visual communication, video editing and social-media content creation."
   }
@@ -137,19 +132,18 @@ function App() {
           </div>
         </section>
 
-        <section id="experience" className="section experience">
+        <section id="Academics" className="section experience">
           <div className="sectionNo">04 / EXPERIENCE</div>
           <div>
-            <div className="timeline">
-              <div className="timeItem">
-                <span>INTERNSHIP</span>
-                <h3>Instagram Content Management</h3>
-                <p>Managed and supported Instagram content as part of practical digital-marketing experience.</p>
-              </div>
               <div className="timeItem">
                 <span>EDUCATION</span>
                 <h3>MBA — Marketing & Finance</h3>
                 <p>Postgraduate business education with focus across marketing and finance.</p>
+              </div><div className="timeline">
+              <div className="timeItem">
+                <span>INTERNSHIP</span>
+                <h3>Marketing Management Intern</h3>
+                <p>Supporting in-store marketing, customer engagement, promotional activities, and retail operations.</p>
               </div>
             </div>
           </div>
@@ -159,7 +153,7 @@ function App() {
           <p className="eyebrow">05 / CONTACT</p>
           <h2>LET'S CREATE<br/><em>SOMETHING USEFUL.</em></h2>
           <p>Interested in connecting about opportunities, projects or collaborations?</p>
-          <a className="contactBtn" href="mailto:YOUR-EMAIL@example.com">YOUR-EMAIL@example.com ↗</a>
+          <a className="contactBtn" href="mailto:clivenfernandes2002@gmail.com">clivenfernandes2002@gmail.com ↗</a>
           <div className="socials">
             <a href="https://www.linkedin.com/" target="_blank">LinkedIn ↗</a>
             <a href="https://github.com/" target="_blank">GitHub ↗</a>
@@ -168,7 +162,7 @@ function App() {
       </main>
 
       <footer>
-        <span>© 2026 CLIVE FERNANDES</span>
+        <span>© 2026 CLIVE NELSON FERNANDES</span>
         <span>BUILT WITH REACT + THREE.JS</span>
       </footer>
     </div>
