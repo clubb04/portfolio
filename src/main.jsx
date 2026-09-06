@@ -48,7 +48,7 @@ const projects = [
   {
     n: "01",
   title: "Norbertine Media – Event Media Projects",
-  text: "Part-time media work involving event photography, videography and content capture. Worked on multiple projects covering events, capturing photographs and video footage, and supporting the creation of engaging visual content.""
+  text: "Part-time media work involving event photography, videography and content capture."
   },
   {
     n: "02",
